@@ -1,1 +1,17 @@
+    .body{
+    padding: auto;
+    margin: 0%
+}
 
+.cabeçalho{
+
+    background-color: darkolivegreen
+    margin:5%;
+    padding: center;
+    text-align: center;
+}
+
+.informações{
+
+    background-color: khaki;
+}
