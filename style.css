@@ -5,13 +5,20 @@
 
 .cabeçalho{
 
-    background-color: darkolivegreen
+    background-color: black;
     margin:5%;
     padding: center;
     text-align: center;
+    color: white;
 }
 
 .informações{
 
     background-color: khaki;
+    margin: 5%
+    padding: 10px;
+}
+
+.imagem{
+    width: 25%;
 }
