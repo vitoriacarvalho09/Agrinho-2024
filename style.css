@@ -1,6 +1,7 @@
     .body{
     padding: auto;
-    margin: 0%
+    margin: 0%;
+    
 }
 
 .cabeçalho{
@@ -15,10 +16,13 @@
 .informações{
 
     background-color: khaki;
-    margin: 5%
+    margin: 5%;
     padding: 10px;
+    text-align: center;
 }
 
 .imagem{
     width: 25%;
 }
+
+
